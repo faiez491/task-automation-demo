@@ -1,0 +1,11 @@
+This   is   a     sample text.
+
+
+It     contains    extra spaces.
+
+
+And blank lines.
+
+
+
+This script will clean it.
